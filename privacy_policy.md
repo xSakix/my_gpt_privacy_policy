@@ -1,7 +1,7 @@
-Privacy Policy – <Your GPT Name> (eBay Sandbox)
+Privacy Policy – My private book search GPT (eBay Sandbox)
 
-Effective date: 2025-08-21
-Contact: Martin Seckar, seckarovci@gmail.com
+Effective date: <YYYY-MM-DD>
+Contact: <Your Name/Company>, <email>
 
 What this GPT does
 - Lets you search eBay (Sandbox/Production) for items and show listing details.
@@ -28,5 +28,5 @@ Your rights (GDPR/EU)
 - For data held by eBay or OpenAI, use their published procedures.
 
 Developer identity
-- Martin Seckar, registered in Slovakia. Contact: seckarovci@gmail.com.
+- <Your legal name or company>, registered in <Country>. Contact: <email>.
 - This is a private experimental assistant; not affiliated with eBay.
